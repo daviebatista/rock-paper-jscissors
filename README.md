@@ -5,3 +5,7 @@
 * Uso de Pacotes NPM (SASS, Webpack, Babel) para melhor desenvolvimento da aplicação;
 ![image](https://user-images.githubusercontent.com/91736880/219192342-63a0f164-19fb-4f7f-b128-f58ed13a3c7b.png)
 
+# Notas
+
+Como o arquivo possui vários pacotes npm em sua dependência, é necessário rodar o comando para instalá-los na máquina do usuário:
+> npm -i
